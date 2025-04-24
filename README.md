@@ -1,38 +1,58 @@
-# Readme #
+# ¡Hola! Soy Pablo Mateos 👨‍💻
 
-![Imagen1](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/desarrolloWeb.jpg)
+![Desarrollo Web](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/desarrolloWeb.jpg)
 
-## About Me ##
+Soy **Técnico Superior en Desarrollo de Aplicaciones Web**, con gran curiosidad y motivación por el mundo de la **ciberseguridad**. Este es mi espacio para aprender, practicar y compartir mis proyectos y avances.
 
-¡Hola, soy Pablo Mateos, un estudiante de desarrollo web con gran curiosidad hacia la ciberseguridad!. 
-Este es mi espacio para aprender y compartir.
+---
 
-## Proyectos Destacados ##
+## 🚀 Proyectos Destacados
 
-Mis principales proyectos destacados se encuentran en los siguientes repositorios: 
+Aquí algunos de los repositorios más importantes en los que he trabajado:
 
-- 1º (Poyecto Compartido)
-[Repositorio 1](https://github.com/PabloMateosP/diw_sitio_Rogelio)
+- 🔗 [Sitio Web Compartido – DIW](https://github.com/PabloMateosP/diw_sitio_Rogelio)
+- 🔗 [Ejercicios de DWECL](https://github.com/PabloMateosP/DWECL)
+- 🔗 [Repositorio de DIWEB 2023](https://github.com/PabloMateosP/DIWEB_23)
+- 🔗 [Mi página web personal (en pausa)](https://github.com/PabloMateosP/MyProjects)
+- 🌟 [Proyecto más importante hasta la fecha](https://github.com/PabloMateosP/Proyectos-CT.git)
 
-- 2º 
-[Repositorio 2](https://github.com/PabloMateosP/DWECL)
+---
 
-- 3º
-[Repositorio 3](https://github.com/PabloMateosP/DIWEB_23)
+## 🎓 Formación
 
-- 4º
-Actualmente estoy Trabajando en mi página web de bienvenida aunque está un poco abandonada 
-[Repositorio 4](https://github.com/PabloMateosP/MyProjects)
+- **Técnico Superior en Desarrollo de Aplicaciones Web**.
+- Comenzando mi camino en la **ciberseguridad** con formaciones como Cisco y Hack4u.
+- Siempre abierto a seguir aprendiendo y creciendo profesionalmente.
 
-- 5º 
-Proyecto más importante que he hecho hasta la fecha:
-[Repositorio 5](https://github.com/PabloMateosP/Proyectos-CT.git)
+---
 
-## Estudios ##
+## 🎯 Intereses
 
-Cursando *grado superior de Desarrollo Web*, y con gran ambición por trabajar de ello así como la futura formación en campos de la ciberseguridad. 
+- Ciberseguridad ofensiva (Red Team)
+- Desarrollo web (Frontend y Backend)
+- Automatización con Python
+- Trabajo en equipo y proyectos colaborativos
 
-## Intereses ##
+---
 
-En cuanto a mis principales intereses, busco poder llegar a un gran conocimiento en cuanto a temas web, así como poder formarme profesionalmente para poder trabajar como técnico en ciberseguridad o como desarrollador web. 
+## 📜 Certificados
 
+Estoy recopilando certificados de cursos completados, como:
+
+- **Hack4u – Python Ofensivo**
+![Python-Ofensivo](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Python-Ofensivo.png)
+- **Hack4u - Introducción A Linux** 
+![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Introducción-Linux.png)
+- **Hack4u - Personalización Entorno Linux**
+![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Personalización-Entorno.png)
+- **Cisco – Introducción a Redes**
+![Cisco-Redes](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Cisco-Redes.png)
+
+---
+
+## 📫 Contacto
+
+- 📧 Correo: [pablomateos1301@gmail.com]
+- 🔗 [LinkedIn](www.linkedin.com/in/pablo-010687299)
+
+---
