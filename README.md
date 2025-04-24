@@ -40,13 +40,13 @@ Aquí algunos de los repositorios más importantes en los que he trabajado:
 Estoy recopilando certificados de cursos completados, como:
 
 - **Hack4u – Python Ofensivo**
-![Python-Ofensivo](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Python-Ofensivo.png)
+![Python-Ofensivo](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Python-Ofensivo.png)
 - **Hack4u - Introducción A Linux** 
-![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Introducción-Linux.png)
+![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Introducción-Linux.png)
 - **Hack4u - Personalización Entorno Linux**
-![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Personalización-Entorno.png)
+![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Personalización-Entorno.png)
 - **Cisco – Introducción a Redes**
-![Cisco-Redes](https://github.com/PabloMateosP/PabloMateosP/blob/e66aaf17029acd21fc83aa001b436f9bab638f23/images/Cisco-Redes.png)
+![Cisco-Redes](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Cisco-Redes.png)
 
 ---
 
