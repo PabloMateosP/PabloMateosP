@@ -4,6 +4,8 @@
 
 Soy **Técnico Superior en Desarrollo de Aplicaciones Web**, con gran curiosidad y motivación por el mundo de la **ciberseguridad**. Este es mi espacio para aprender, practicar y compartir mis proyectos y avances.
 
+Actualmente me encuentro en búsqueda de empleo, aumentando mis conocimientos día tras día y nunca frenando mi progreso por llegar a ser de los mejores en campos de ciberseguridad y programación. 
+
 ---
 
 ## 🚀 Proyectos Destacados
@@ -41,10 +43,13 @@ Estoy recopilando certificados de cursos completados, como:
 
 - **Hack4u – Python Ofensivo**
 ![Python-Ofensivo](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Python-Ofensivo.png)
+
 - **Hack4u - Introducción A Linux** 
 ![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Introducción-Linux.png)
+
 - **Hack4u - Personalización Entorno Linux**
 ![Introducción-Linux](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Personalización-Entorno.png)
+
 - **Cisco – Introducción a Redes**
 ![Cisco-Redes](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Cisco-Redes.png)
 
@@ -53,6 +58,6 @@ Estoy recopilando certificados de cursos completados, como:
 ## 📫 Contacto
 
 - 📧 Correo: [pablomateos1301@gmail.com]
-- 🔗 [LinkedIn](www.linkedin.com/in/pablo-010687299)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pablo-010687299/)
 
 ---
