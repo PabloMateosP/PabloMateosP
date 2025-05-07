@@ -53,6 +53,9 @@ Estoy recopilando certificados de cursos completados, como:
 - **Cisco – Introducción a Redes**
 ![Cisco-Redes](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/Cisco-Redes.png)
 
+- **Google - Inteligencia Artificial y Productividad**
+![Google-Santander]()
+
 ---
 
 ## 📫 Contacto
