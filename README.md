@@ -57,10 +57,10 @@ Estoy recopilando certificados de cursos completados, como:
 ![Google-Santander](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/CursoGoogleSantander.png)
 
 - **Santander Open Academy - Python**
-![Santander-Python]()
+![Santander-Python](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/SantanderPython.png)
 
 - **Santander Open Academy - Excel**
-![Santander-Excel]()
+![Santander-Excel](https://github.com/PabloMateosP/PabloMateosP/blob/master/images/SantanderExcel.png)
 ---
 
 ## 📫 Contacto
